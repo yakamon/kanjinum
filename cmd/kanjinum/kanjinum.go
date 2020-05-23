@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/yakamon/shconf/lib/kanjinum"
+	"github.com/yakamon/kanjinum"
 )
 
 func main() {

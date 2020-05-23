@@ -1,6 +1,2 @@
-github.com/yakamon/shconf v0.0.0-20200523065734-4a958fbe3f67 h1:L+BfeNKRni1ntu+4rJkaNoR1UPYHzhxKO6+ilIwBFQM=
-github.com/yakamon/shconf v0.0.0-20200523065734-4a958fbe3f67/go.mod h1:k3xe9+Y5P/KdfqWIYklTT97hyPMpsU3LtEV2068eX0w=
-github.com/yakamon/shconf v0.0.0-20200523071958-6d7d2d1d1b06 h1:xvdTNhsUbI8ep93OPE6Z5PwabYF7+O5NIpR/4tB/dIs=
-github.com/yakamon/shconf v0.0.0-20200523071958-6d7d2d1d1b06/go.mod h1:k3xe9+Y5P/KdfqWIYklTT97hyPMpsU3LtEV2068eX0w=
-github.com/yakamon/shconf/lib/kanjinum v0.0.0-20200523071958-6d7d2d1d1b06 h1:esvgkmih1OSeR6aCz4JhmI1hGq564I+vrYaC9O5LJP0=
-github.com/yakamon/shconf/lib/kanjinum v0.0.0-20200523071958-6d7d2d1d1b06/go.mod h1:ed3JeFWF6o8DV2jUZhSja2aTQPWV7/1dDmAE2kpKqrU=
+github.com/yakamon/kanjinum v0.0.0-20200523095555-2591c43e9216 h1:i37wGh+v6q2bDQ9VH2rNEeP0WbJor0VaoDyrrsGb3t4=
+github.com/yakamon/kanjinum v0.0.0-20200523095555-2591c43e9216/go.mod h1:P4X7B6RST2pcvkiUwFC6aFetGb5oVT3+LCEPgsWwsfw=
