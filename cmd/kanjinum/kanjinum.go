@@ -45,6 +45,7 @@ func ParseArgs() (nums []*big.Int, err error) {
 	cmdName := os.Args[0]
 	if len(os.Args) < 2 {
 		fmt.Printf("usage: %s <number>\n", cmdName)
+		os.Exit(0)
 	}
 
 	if i, ok := new(big.Int).SetString(os.Args[1], 10); ok {
